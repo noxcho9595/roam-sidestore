@@ -22,6 +22,10 @@ This repository is only the install page for the SideStore/AltStore version. The
   <img src="assets/live-light.jpg" width="200" alt="Live location, tap Stop to go back">
 </p>
 
+## Install guide (PDF)
+
+Every step with pictures, from SideStore to your first teleport: **[Roam-install-guide.pdf](Roam-install-guide.pdf)**
+
 ## Source
 
 Add this source in SideStore or AltStore:
@@ -49,7 +53,7 @@ SideStore › **Sources** › **+** › paste the link › **Roam** › **Free**
 4. In SideStore, add the source above and install **Roam**.
 5. Open Roam and follow the setup: start your free trial, pair with your iPhone, turn on LocalDevVPN and allow location.
 
-A step-by-step guide with pictures is on [roamlocation.com](https://roamlocation.com).
+**New to SideStore?** Read the step-by-step guide with pictures: [Roam-install-guide.pdf](Roam-install-guide.pdf).
 
 ## Free trial and passes
 
