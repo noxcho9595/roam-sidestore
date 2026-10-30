@@ -41,14 +41,17 @@ SideStore › **Sources** › **+** › paste the link › **Roam** › **Free**
 ## What you need
 
 - An iPhone with **iOS 27 or newer**. Older iOS versions don't work.
-- **Developer Mode** on (Settings › Privacy & Security › Developer Mode).
-- [SideStore](https://sidestore.io) with your own Apple ID (a free one works).
+- A **Mac or Windows computer** and a cable, once, to put SideStore on your iPhone.
+- Your own **Apple ID** (a free one works).
 - The free **LocalDevVPN** app from the App Store.
+- **Wi-Fi**, for setup and the 7-day refresh.
+
+You turn on Developer Mode during the install: the switch only shows up after SideStore is on your iPhone.
 
 ## Install
 
 1. Install SideStore with iloader on a computer (once). See [sidestore.io](https://sidestore.io).
-2. Turn on **Developer Mode** and restart.
+2. Now turn on **Developer Mode** (Settings › Privacy & Security › Developer Mode) and restart.
 3. Open **LocalDevVPN** and tap **Connect**.
 4. In SideStore, add the source above and install **Roam**.
 5. Open Roam and follow the setup: start your free trial, pair with your iPhone, turn on LocalDevVPN and allow location.
