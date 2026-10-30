@@ -50,7 +50,8 @@ You turn on Developer Mode during the install: the switch only shows up after Si
 
 ## Install
 
-1. Install SideStore with iloader on a computer (once). See [sidestore.io](https://sidestore.io).
+1. **Download first:** LocalDevVPN on your iPhone, and [iloader](https://iloader.app) on your computer (on Windows, install iTunes first). See SideStore's [prerequisites](https://docs.sidestore.io/docs/installation/prerequisites).
+1. Install SideStore with iloader on a computer (once), following the [official SideStore guide](https://docs.sidestore.io/docs/installation/prerequisites).
 2. Now turn on **Developer Mode** (Settings › Privacy & Security › Developer Mode) and restart.
 3. Open **LocalDevVPN** and tap **Connect**.
 4. In SideStore, add the source above and install **Roam**.
@@ -61,6 +62,10 @@ You turn on Developer Mode during the install: the switch only shows up after Si
 ## Free trial and passes
 
 Roam starts with a **free 3-day trial**, no card needed. After that you pick a pass inside Roam: a day, a week, a month or a year. You pay on roamlocation.com and Roam picks it up by itself. If Roam doesn't work on your iPhone within 7 days, you get your money back.
+
+## Your code
+
+Roam makes your own code when you start the trial. Find it in Roam › ⚙️ Settings › **Your code** › **Copy code**, and send it when you ask for help or more time.
 
 ## Every 7 days
 
@@ -76,7 +81,7 @@ Don't want to refresh, or no computer? Get Roam the easy way on [roamlocation.co
 
 ## Support
 
-Chat with us on [roamlocation.com](https://roamlocation.com) or e-mail support@roamlocation.com.
+Questions, ideas or bugs? Join the [Roam Discord](https://discord.gg/swvFYgDdf) and paste your code. You can also chat on [roamlocation.com](https://roamlocation.com) or e-mail support@roamlocation.com.
 
 ## Credits
 
