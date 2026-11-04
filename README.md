@@ -38,6 +38,16 @@ SideStore › **Sources** › **+** › paste the link › **Roam** › **Free**
 
 > Opening the link in a browser shows raw JSON. That's normal: it's a file for SideStore, not a web page.
 
+**Not seeing an update in SideStore?** Pull down to refresh in **Sources** and in **My Apps**. An app installed from a file isn't linked to the source, so install Roam once from the Roam source to get updates.
+
+## Direct IPA
+
+Rather have the IPA file? This link always downloads the newest Roam:
+
+**[Roam.ipa](https://github.com/noxcho9595/roam-sidestore/releases/latest/download/Roam.ipa)**
+
+Download it on your iPhone, then SideStore › **My Apps** › **+** › pick **Roam.ipa**. Installed this way, Roam won't update by itself. Every version is on the [Releases](https://github.com/noxcho9595/roam-sidestore/releases) page.
+
 ## What you need
 
 - An iPhone with **iOS 27 or newer**. Older iOS versions don't work.
